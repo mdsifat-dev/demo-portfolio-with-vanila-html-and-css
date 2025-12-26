@@ -182,7 +182,7 @@ main section {
   height: 350px;
 }
 
-.skill-description{
+.skill-description {
   font-size: 1.4em;
 }
 
@@ -192,37 +192,37 @@ main section {
   transition-duration: 0.2s;
 }
 
-
 /* Resume Summary styles */
-.resume-container{
+.resume-container {
   display: flex;
   gap: 24px;
 }
 
-.resume-column{
+.resume-column {
   width: 700px;
-justify-content: space-between;
+  justify-content: space-between;
 }
 
-.resume-column-title{
+.resume-column-title {
   font-size: 30px;
 }
 
-.experience-title{
+.experience-title {
   font-size: 24px;
   margin: 20px 0;
 }
 
-.experience-sub-title{
+.experience-sub-title {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 20px;
 }
 
-.experience-description, .experience-sub-title {
+.experience-description,
+.experience-sub-title {
   color: #757575;
 }
 
-.resume hr{
+.resume hr {
   margin: 30px 0px;
 }
